@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MP4 Player</string>
+    <string name="pick_video">اختيار فيديو</string>
+    <string name="no_video_selected">لم يتم اختيار فيديو</string>
+    <string name="pick_video_hint">اضغط لاختيار ملف MP4 من التخزين</string>
+</resources>

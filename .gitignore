@@ -9,3 +9,8 @@ captures/
 .cxx/
 *.apk
 *.aab
+
+# local helpers (not part of app)
+mega_signup.py
+tmp/
+credentials/
